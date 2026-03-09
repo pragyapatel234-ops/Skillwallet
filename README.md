@@ -14,13 +14,14 @@ The following individuals have actively contributed to this project:
 - **Pranjal Patle**
 - **Pragya Patel**
 - **Pragya Shrivas**
+- **Prakharsh Yadav**
 
 ---
 
 ## ❌ Excluded (No Credit)
 The following individual did **not** contribute to this project and therefore will not receive credit:
 
-- **Prakharsh Yadav**
+-**N/A**
 
 ---
 
